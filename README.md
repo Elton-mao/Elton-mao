@@ -48,7 +48,4 @@ Este portfólio foi criado para compartilhar meus conhecimentos, experiências e
 
 ---
 
-## 📈 Estatísticas do GitHub
 
-![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=elton-almeida&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elton-almeida&layout=compact&theme=dark)
