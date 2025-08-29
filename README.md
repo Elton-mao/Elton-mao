@@ -24,7 +24,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará alguns dos p
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **MonitorPRO** | Sistema MES para monitoramento de linhas de extrusão plástica. Integra dados de sensores, operadores e setores como laboratório e manutenção. | Spring Boot, MySQL, Bootstrap |
+| [![**InduFlow**]](https://github.com/Elton-mao/induFlow) | Sistema MES para monitoramento de linhas de extrusão plástica. Integra dados de sensores, operadores e setores como laboratório e manutenção. | Spring Boot, MySQL, Bootstrap |
 | **Get NFE** | Sistema de gerenciamento de Notas Fiscais Eletrônicas. Permite organização, consulta e armazenamento eficiente de NFes. | Java, Spring Boot, MySQL |
 | **Automação NFe** | Robô para automação de download de notas fiscais e organização de arquivos XMLs. | Python, Selenium, Windows |
 
