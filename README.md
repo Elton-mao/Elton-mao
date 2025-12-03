@@ -27,7 +27,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará alguns dos p
 | [InduFlow](https://github.com/Elton-mao/induFlow) | Sistema MES para monitoramento de linhas de extrusão plástica. | Spring Boot, MySQL, Bootstrap |
 |  [NotaSync](https://github.com/Elton-mao/NotaSync/tree/main) | Sistema de gerenciamento de Notas Fiscais Eletrônicas. Permite organização, consulta e armazenamento eficiente de NFes. | Java, Spring Boot, MySQL |
 |  [Heiter](https://github.com/Elton-mao/heiter_free) |Heiter é um sistema web completo composto por um site responsivo desenvolvido com Bootstrap |
-| 0[Andromeda](https://github.com/Elton-mao/Andromeda) |Sistema em construção para gestão de funcionários e requisições de RH. EM DESENVOLVIMENTO|| Spring Boot, MySQL, Bootstrap |
+| [Andromeda](https://github.com/Elton-mao/Andromeda) |Sistema em construção para gestão de funcionários e requisições de RH. EM DESENVOLVIMENTO|| Spring Boot, MySQL, Bootstrap |
 
 
 
